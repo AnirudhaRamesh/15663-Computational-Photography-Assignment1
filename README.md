@@ -5,3 +5,5 @@ To run code, please keep only the code for the required section and comment out 
 The python script should run sequentially without any problems. 
 This script was developed in a jupyter notebook whose outputs are also printed and attached as a reference to what the expected outputs should look like.
 Please read the comments in the code as they explain or add to the reasoning at some places.
+
+2.2 additional has some images captured by our pinhole camera.
